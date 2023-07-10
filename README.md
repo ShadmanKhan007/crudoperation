@@ -40,9 +40,38 @@ Open your web browser and visit http://localhost:5173/.
 The page displays a user interface with buttons to perform CRUD operations:
 
 Add User: Click this button to add a new user to the list.
+
+
+
+
+
+
+
 Update User: Click this button to update an existing user's name.
+
+
+
+
+
+
+
 Delete User: Click this button to delete a user from the list.
+
+
+
+
+
+
+
 Users: The current list of users is displayed below these buttons.
+
+
+
+
+
+
+
+
 Explore the code in the UserCRUD.js file to understand how the user CRUD operations are implemented using useReducer and useContext.
 
 Contributing
