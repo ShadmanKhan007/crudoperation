@@ -20,7 +20,6 @@ The implementation includes a `UserContext` that stores the state and dispatch f
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/ShadmanKhan007/crudoperation.git
 
 Change to the project directory:
@@ -30,12 +29,12 @@ cd crud
 Install the dependencies:
 bash
 Copy code
-npm install
+## npm install
 Usage
 Start the development server:
 bash
 Copy code
-npm run dev
+ ## npm run dev
 Open your web browser and visit http://localhost:5173/.
 
 The page displays a user interface with buttons to perform CRUD operations:
